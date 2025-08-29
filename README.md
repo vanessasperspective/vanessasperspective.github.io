@@ -65,7 +65,7 @@
                     <div class="md:w-1/2">
                         <div class="bg-white p-6 rounded-lg shadow-lg">
                             <h3 class="text-2xl font-semibold mb-2 text-gray-800">The Author</h3>
-                            <p class="text-gray-600">My journey began in the academic world, but my passion lies in sharing big ideas with a broad audience. I'm fascinated by the patterns that connect us all and how they manifest in both a quantum equation and a piece of poetry. My goal is to create a community of like-minded thinkers who are curious about the universe, both within and without.</p>
+                            <p class="text-gray-600">If I edit this here, does that change on the website? This is a test.</p>
                         </div>
                     </div>
                 </div>
